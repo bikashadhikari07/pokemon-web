@@ -1,0 +1,125 @@
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .texthead{
+    
+    font-size: 50px;
+  }
+.text2{
+  font-size: 50px;
+}
+.btnget{
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  text-decoration: solid;
+  padding: 0.5em;
+  border-radius: 12px;
+  border-color: rgb(42, 112, 48);
+  
+  margin: 10px;
+}
+#demo{
+  color: black;
+}
+.textwrite{
+  font-size: 50px;
+}
+.circleimg{
+    border-radius: 60%;
+}
+
+.cont{
+  margin-top: 200px;
+  margin-left: 170px;
+  margin-bottom: 150px;
+  
+}
+
+.textmid{
+  font-size: 50px;
+  
+}
+.gen{
+  margin: 30px;
+  padding: 5px 15px;
+  border-radius: 5px;
+  /* background-color: #b4c4be; */
+  
+}
+/* .videocont{
+  /* margin-left: 100px; */
+
+.videocontainer{
+  background-color: rgb(187, 196, 196);
+  margin-bottom: 50px;
+}
+  
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  
+  
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+  margin: 5px;
+  
+  
+}
+
+.next {
+  background-color: #04AA6D;
+  color: white;
+  margin: 5px;
+ 
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(187, 196, 196);
+  color: white;
+}
+.imgtozoom{
+  transition: transform .2s;
+}
+
+.imgtozoom:hover{
+  transform: scale(1.5);
+  
+}
+.img-fluid{
+  transition: transform .2s;
+
+}
+.img-fluid:hover{
+  transform: scale(1.3);
+  position: absolute;
+
+}
+
+.circleimg{
+  transition: transform .2s;
+
+}
+.circleimg:hover{
+  transform: scale(1.5);
+  border-radius: 0%;
+
+}
+.textmid{
+  transition:transform .2s;
+
+}
+.textmid:hover{
+  color: #ebcc34;
+}
+
